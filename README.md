@@ -1,1 +1,1 @@
-l# Code for rescue maze Indian nationals
+# Code for rescue maze Indian nationals
